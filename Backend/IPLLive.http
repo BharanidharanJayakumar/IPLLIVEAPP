@@ -1,0 +1,6 @@
+@IPLLive_HostAddress = http://localhost:5269
+
+GET {{IPLLive_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
